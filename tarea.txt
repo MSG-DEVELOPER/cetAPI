@@ -1,0 +1,22 @@
+EXERCISI ACCÈS DADES OBJECTE POKEMON
+A la web https://pokeapi.co
+
+Agafa un objecte Pokemon
+
+En internet ho pots veure millor (exemple DITTO)
+https://pokeapi.co/api/v2/pokemon/ditto
+
+(si no el veus bé, pots baixar-te extensions pel navegador tipo JSON viewer o JSONformatter)
+
+A més del nom i, connecta amb dues imatges (les imatges són a SPRITES) com aquestes:
+Front_shiny y back_shiny
+
+Pots afegir més dades també.
+
+Desprès es pot maquetar en CSS, exemple: títol (imposter), subtítol (metal_powder) y dues imatges (front-back) en dues columnes.
+
+Pots agafar una altra API,
+com la del Rick&Morty:
+https://rickandmortyapi.com
+
+o la del SonGoku:
