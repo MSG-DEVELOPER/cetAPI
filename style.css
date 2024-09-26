@@ -1,0 +1,26 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+#nameCharacter{
+text-align: center;
+font-size: 100px;
+color: green;
+text-shadow: 5px 5px 5px black;
+margin-top: -10px;
+
+
+}
+
+#imagen{
+
+    width: 200px;
+    height: 300px;
+
+
+}

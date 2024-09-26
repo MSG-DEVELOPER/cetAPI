@@ -20,3 +20,4 @@ com la del Rick&Morty:
 https://rickandmortyapi.com
 
 o la del SonGoku:
+https://web.dragonball-api.com
